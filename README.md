@@ -1,4 +1,3 @@
-# .github
 # ⚡ WATT Protocol
 **Energy to Earn** | Born in Africa, Built for the World
 
