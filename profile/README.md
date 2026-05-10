@@ -13,7 +13,7 @@ WATT Protocol is an open-source blockchain infrastructure that bridges **real-wo
 | 🪙 **Mint** | `$WATT` issued proportionally to verified kWh generation | ERC-20 tokens minted to producer |
 | 🌍 **Impact** | Tokens power ESG tracking, community funding, & on-chain governance | Transparent climate impact ledger |
 
-> 💡 *$WATT is not a speculative asset. It is a utility token backed by audited renewable generation, designed for ESG compliance, carbon credit verification, and community impact funding.*
+> *$WATT is not a speculative asset. It is a utility token backed by audited renewable generation, designed for ESG compliance, carbon credit verification, and community impact funding.*
 
 ---
 
